@@ -24,6 +24,10 @@ It allows basic vulnerability scanning on a single local system.
 - Low: 0  
 - Info: 22  
 
+![src1](src1.png)
+
+![src2](src2.png)
+
 ## Files Included
 - `Vulnerability_Report.md` — Full analysis and explanation
 
