@@ -24,9 +24,9 @@ It allows basic vulnerability scanning on a single local system.
 - Low: 0  
 - Info: 22  
 
-![src1](src1.png)
+![src1](sr1.png)
 
-![src2](src2.png)
+![src2](sr2.png)
 
 
 ## Conclusion
