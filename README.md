@@ -28,8 +28,6 @@ It allows basic vulnerability scanning on a single local system.
 
 ![src2](src2.png)
 
-## Files Included
-- `Vulnerability_Report.md` — Full analysis and explanation
 
 ## Conclusion
 The scan identified one medium-severity vulnerability and the rest were informational.  
